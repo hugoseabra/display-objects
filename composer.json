@@ -1,5 +1,5 @@
 {
-    "name": "lcobucci/display-objects",
+    "name": "hugoseabra/display-objects",
     "description": "A way to create UI components and use them as a object from your classes",
     "type": "library",
     "authors": [{
