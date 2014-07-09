@@ -1,6 +1,7 @@
 {
     "name": "hugoseabra/display-objects",
     "description": "A way to create UI components and use them as a object from your classes",
+    "homepage": "http://nad.sistemafaeg.org.br/projects/sistemaintegrata/wiki/hugoseabraDisplayObject",
     "type": "library",
     "authors": [{
             "name": "Luís Otávio Cobucci Oblonczyk",
